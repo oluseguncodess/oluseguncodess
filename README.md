@@ -1,8 +1,8 @@
 # 💫 About Me:
-Hey, I'm Olusegun 👋🏾,<br><br>I'm a 23-year-old developer, documenting my coding journey here on Github
-  • 🧑🏾‍💻 I'm currently learning Javascript and Python
-  • ⚡️ I'm looking for help with internship 
-  • 🚀 I'm currently building landing pages 
+Hey, I'm Olusegun 👋🏾,<br><br>I'm a 23-year-old developer, documenting my coding journey here on Github<br><br>
+  • 🧑🏾‍💻 I'm currently learning Javascript and Python<br>
+  • ⚡️ I'm looking for help with internship<br> 
+  • 🚀 I'm currently building landing pages<br> 
   • 🐤 I love anime
 
 ## 🌐 Socials:
