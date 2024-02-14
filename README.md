@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Olusegun 🥷🏾</h1>
+<h1 align="center">Hi 👋🏾, I'm Olusegun 🥷🏾</h1>
 <h3 align="center">A passionate developer from Nigeria, documenting my coding journey here on Github</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oluseguncodess&label=Profile%20views&color=0e75b6&style=flat" alt="oluseguncodess" /> </p>
