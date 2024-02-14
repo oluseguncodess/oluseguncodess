@@ -1,6 +1,9 @@
 # 💫 About Me:
 Hey, I'm Olusegun 👋🏾,<br><br>I'm a 23-year-old developer, documenting my coding journey here on Github
-
+  • 🧑🏾‍💻 I'm currently learning Javascript and Python
+  • ⚡️ I'm looking for help with internship 
+  • 🚀 I'm currently building landing pages 
+  • 🐤 I love anime
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/olusegun-bamgbelu-163208209) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/oluseguncodes) 
